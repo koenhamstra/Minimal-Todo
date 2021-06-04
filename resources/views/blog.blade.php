@@ -116,7 +116,7 @@
                 </div>
             </div>
         </div>
-        <div id="starWars" class="row">
+        <div id="NYTimes" class="row">
         </div>
     </div>
 </div>

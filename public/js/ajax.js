@@ -1,6 +1,6 @@
 console.log("JavaScript is working!");
 
-const domElement = document.getElementById("starWars");
+const domElement = document.getElementById("NYTimes");
 
 /**
  * Example 2
