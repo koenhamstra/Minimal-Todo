@@ -15,9 +15,9 @@ class BlogController extends Controller
      */
     public function index()
     {
-        $blogs = Blog::take(3)->latest()->get();
+//        $blogs = Blog::take(3)->latest()->get();
 
-        return view('blog', ['blogs' => $blogs]);
+        return view('blog');
     }
 
     /**
