@@ -3,8 +3,9 @@
 namespace App\Providers;
 
 use Illuminate\Support\Facades\Schema;
+use Illuminate\Support\Facades\URL;
 use Illuminate\Support\ServiceProvider;
-use phpDocumentor\Reflection\DocBlock\Tags\Reference\Url;
+
 
 class AppServiceProvider extends ServiceProvider
 {
