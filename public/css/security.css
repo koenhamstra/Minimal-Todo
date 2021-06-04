@@ -1,0 +1,17 @@
+.logout{
+    color:white!important;
+}
+
+.titlepage{
+    font-family: "Times New Roman";
+    color: grey;
+    font-size: 30px;
+}
+
+#article-container{
+    display: inline-block;
+}
+
+#starWars{
+    display: inline-block!important;
+}
